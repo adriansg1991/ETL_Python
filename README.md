@@ -41,3 +41,9 @@ Para clonar y ejecutar estos proyectos, sigue estos pasos:
    ```bash
    git clone https://github.com/tuusuario/etl-python-projects.git
    cd etl-python-projects
+
+## 📬 Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o abrir un [issue en GitHub](https://github.com/tuusuario/etl-python-projects/issues).
+
+¡Gracias por visitar el repositorio! 🚀
