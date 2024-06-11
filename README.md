@@ -12,10 +12,8 @@ Bienvenido a mi repositorio de proyectos de proceso ETL (Extracción, Transforma
 
 ## 📂 Estructura del Repositorio
 
-- `data/`: Contiene datasets utilizados en los proyectos.
-- `notebooks/`: Jupyter Notebooks con la implementación de los procesos ETL.
-- `scripts/`: Scripts Python reutilizables.
-- `reports/`: Reportes generados y visualizaciones.
+- `Report Matplotlib/`: Jupyter Noteebok con proceso ETL con gráficos en Matplotlib.
+- `Report Seaborn/`: Jupyter Noteebok con proceso ETL con gráficos en Seaborn.
 
 ## 📊 Proyectos Destacados
 
@@ -32,15 +30,6 @@ Este proyecto se enfoca en la limpieza y transformación de datos de encuestas p
 - **Fuente de datos**: `data/survey_data.csv`
 - **Notebook**: `notebooks/survey_cleaning.ipynb`
 - **Tecnologías utilizadas**: pandas, numpy, matplotlib, seaborn
-
-## 🚀 Comenzando
-
-Para clonar y ejecutar estos proyectos, sigue estos pasos:
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/etl-python-projects.git
-   cd etl-python-projects
 
 ## 📬 Contacto
 
