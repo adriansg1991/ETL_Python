@@ -44,6 +44,6 @@ Para clonar y ejecutar estos proyectos, sigue estos pasos:
 
 ## 📬 Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o abrir un [issue en GitHub](https://github.com/tuusuario/etl-python-projects/issues).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o en [Linkedin](https://linkedin.com/in/adriansanchez-garcia/).
 
 ¡Gracias por visitar el repositorio! 🚀
