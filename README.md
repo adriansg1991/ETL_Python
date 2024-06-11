@@ -15,6 +15,16 @@ Bienvenido a mi repositorio de proyectos de proceso ETL (Extracción, Transforma
 - `Report Matplotlib/`: Jupyter Noteebok con proceso ETL con gráficos en Matplotlib.
 - `Report Seaborn/`: Jupyter Noteebok con proceso ETL con gráficos en Seaborn.
 
+## 🛠️ Librerías utilizadas
+
+Este proyecto utiliza las siguientes herramientas y librerías:
+
+- [**pandas**](https://pandas.pydata.org/): Para la manipulación y análisis de datos.
+- [**numpy**](https://numpy.org/): Para cálculos numéricos y operaciones con matrices.
+- [**matplotlib**](https://matplotlib.org/): Para la creación de visualizaciones gráficas.
+- [**seaborn**](https://seaborn.pydata.org/): Para la visualización estadística basada en matplotlib.
+
+
 ## 📊 Proyectos Destacados
 
 ### 1. Análisis de Ventas
