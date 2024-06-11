@@ -25,22 +25,6 @@ Este proyecto utiliza las siguientes herramientas y librerías:
 - [**seaborn**](https://seaborn.pydata.org/): Para la visualización estadística basada en matplotlib.
 
 
-## 📊 Proyectos Destacados
-
-### 1. Análisis de Ventas
-En este proyecto, se realiza la extracción de datos de ventas, su limpieza y transformación utilizando pandas y numpy. Luego, se generan visualizaciones con matplotlib y seaborn para identificar tendencias y patrones.
-
-- **Fuente de datos**: `data/sales_data.csv`
-- **Notebook**: `notebooks/sales_analysis.ipynb`
-- **Tecnologías utilizadas**: pandas, numpy, matplotlib, seaborn
-
-### 2. Limpieza de Datos de Encuestas
-Este proyecto se enfoca en la limpieza y transformación de datos de encuestas para obtener insights significativos. Incluye la detección de valores faltantes y outliers, y la creación de reportes visuales.
-
-- **Fuente de datos**: `data/survey_data.csv`
-- **Notebook**: `notebooks/survey_cleaning.ipynb`
-- **Tecnologías utilizadas**: pandas, numpy, matplotlib, seaborn
-
 ## 📬 Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o en [Linkedin](https://linkedin.com/in/adriansanchez-garcia/).
