@@ -27,6 +27,11 @@ Este proyecto utiliza las siguientes herramientas y librerías:
 - [**Matplotlib**](https://matplotlib.org/): Para la creación de visualizaciones gráficas.
 - [**Seaborn**](https://seaborn.pydata.org/): Para la visualización estadística basada en matplotlib.
 
+## Datasets
+La fuente de datos es la del ayuntamiento de Barcelona:
+
+https://opendata-ajuntament.barcelona.cat/es/
+
 
 ## 📬 Contacto
 
