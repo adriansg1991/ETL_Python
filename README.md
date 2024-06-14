@@ -1,4 +1,4 @@
-# 🧪 Proyectos ETL con Python
+# ℹ️ Proyectos ETL con Python
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![pandas](https://img.shields.io/badge/pandas-1.2.0+-yellow.svg)](https://pandas.pydata.org/)
