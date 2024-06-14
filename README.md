@@ -5,10 +5,13 @@
 [![numpy](https://img.shields.io/badge/numpy-1.19.5+-orange.svg)](https://numpy.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.3.3+-green.svg)](https://matplotlib.org/)
 [![seaborn](https://img.shields.io/badge/seaborn-0.11.1+-blueviolet.svg)](https://seaborn.pydata.org/)
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1tN3Zsdm81cjVjZTJscmExdmV2eTM3YmlkN2hzZHFhbDA2YXRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
+</div>
+
 
 Bienvenido a mi repositorio de proyectos de proceso ETL (Extracción, Transformación y Carga) utilizando Python y las librerías pandas, numpy, matplotlib y seaborn. Aquí encontrarás ejemplos prácticos y detallados de cómo manejar y visualizar datos de manera eficiente.
 
-<img src="https://miimagen.ejemplo.com/etl_process.png" alt="ETL Process" width="600"/>
 
 ## 📂 Estructura del Repositorio
 
